@@ -1,0 +1,11 @@
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\bin\Debug\Proyecto1WindowsFormsCalculadora.exe.config
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\bin\Debug\Proyecto1WindowsFormsCalculadora.exe
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\bin\Debug\Proyecto1WindowsFormsCalculadora.pdb
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\obj\Debug\Proyecto1WindowsFormsCalculadora.csproj.AssemblyReference.cache
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\obj\Debug\Proyecto1WindowsFormsCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\obj\Debug\Proyecto1WindowsFormsCalculadora.Form1.resources
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\obj\Debug\Proyecto1WindowsFormsCalculadora.Properties.Resources.resources
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\obj\Debug\Proyecto1WindowsFormsCalculadora.csproj.GenerateResource.cache
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\obj\Debug\Proyecto1WindowsFormsCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\obj\Debug\Proyecto1WindowsFormsCalculadora.exe
+C:\Users\Herrera\source\repos\CalculadoraP1\Proyecto1WindowsFormsCalculadora\obj\Debug\Proyecto1WindowsFormsCalculadora.pdb
